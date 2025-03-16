@@ -7,11 +7,15 @@
 
 
 #include "include/Palindroms.hpp"
+#include "include/BinGap.hpp"
 
 int main(int argc, const char * argv[]) {
     // insert code here...
     
     Palindroms::Solution("fnkfnkc");
+    
+   
+    
     
     //type def template to adatp for other solutions
 
